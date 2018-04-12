@@ -5,4 +5,5 @@ This portfolio contains many beatiful works in the Java language. Among these wo
 ![alt text](https://github.com/andysknoblock/MazeGame/blob/master/MazeGamePhotos/Capture1.PNG)
 2. A tic tac toe game that only runs on Windows computers.
 3. A path finder that will see how many possible paths there are to the bottom corner by only moving right and down. Visit https://github.com/andysknoblock/PathFinder ![alt text](https://github.com/andysknoblock/PathFinder/blob/master/PathFinder.png)
-4. Many other works that may or may not be enjoyable. 
+4. A project which will output a text file containing the entire text of any website. 
+5. Many other works that may or may not be enjoyable. 
